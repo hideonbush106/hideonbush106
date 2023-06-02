@@ -7,7 +7,7 @@ This is my tiny space so that I can share my projects- You can find it <a href="
 <img src="https://github-readme-stats.vercel.app/api?username=hideonbush106&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideonbush106&theme=tokyonight&layout=compact&langs_count=6">
 
-## Tech stacks
+## 🤖Tech stacks
 ### Languages
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
