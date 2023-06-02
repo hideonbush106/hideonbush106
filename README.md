@@ -1,5 +1,5 @@
 # ⚡Hi, I'm Fong
-<a href=https://www.linkedin.com/in/phonghoai/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a><img src="https://komarev.com/ghpvc/?username=hideonbush106&color=blue"><br>
+<a href=https://www.linkedin.com/in/phonghoai/> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a><img src="https://komarev.com/ghpvc/?username=hideonbush106&color=blue"><br>
 I'm studying Bachelor of Software Engineering at FPT University HCMC. I'm currently a Front-end devloper, my goal is becoming a Full-stack developer.😊
 ## ✨My portfolio
 This is my tiny space so that I can share my projects- You can find it <a href="https://fongnh.tech">here</a>✌️
