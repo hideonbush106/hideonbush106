@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fong</h1>
-<h3 align="center">A passionate Front-end developer from Vietnam. My future goal is Full-stack developer!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hideonbush106&label=Profile%20views&color=0e75b6&style=flat" alt="hideonbush106" /> </p>
 
